@@ -13,7 +13,7 @@ devices:
     peso: "207 g"
     conectividad: "5G, Wi-Fi 802.11 a/b/g/n/ac/ax, Bluetooth 5.1"
     resistencia_agua: "IP52 (resistencia limitada al agua)"
-    enlace: "https://www.smart-gsm.com/moviles/motorola-moto-g100"
+    imagen: "https://www.latercera.com/resizer/7Ftoy0rtCuTD3sNBzbrxvjk7zg8=/arc-anglerfish-arc2-prod-copesa/public/H53FL3KHLJBJPA7HRO4VTU5VFE.png"
 
   "Xiaomi Redmi Note 13 Pro+ 5G":
     status: "Pausado"
@@ -31,3 +31,4 @@ devices:
     resistencia_agua: "IP68"
     proteccion_pantalla: "Gorilla Glass Victus"
     otros: "Sensor óptico en pantalla"
+    imagen: "https://http2.mlstatic.com/D_NQ_NP_748621-MLA76569863127_052024-O.webp"
